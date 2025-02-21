@@ -1,7 +1,7 @@
 ### about me
 - 👋 Hi, I’m Shazny.
-- 👀 I am an interdisciplinary scholar of environmental law based in Singapore 🇸🇬
-- 🌱 I'm a senior legal editor with [Singapore Academy of Law](https://www.sal.org.sg/)
+- 👀 I am an independent legal researcher based in Singapore 🇸🇬
+- 🌱 I'm affiliated with the [Global Netwrok for Human Rights and the Environment](https://gnhre.org/)
 
 
 <!---
